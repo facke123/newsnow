@@ -1,7 +1,6 @@
 name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
-account_id = "20cf67bbae450d886a05a80800c32176"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
